@@ -1,12 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Event 1",
-    "description": "This is the first event"
+    "title": "Grocery List",
+    "content": "Milk, eggs, bread"
   },
   {
     "id": 2,
-    "title": "Event 2",
-    "description": "This is the second event"
+    "title": "Study Plan",
+    "content": "Finish Swift assignment, review lectures"
+  },
+  {
+    "id": 3,
+    "title": "Ideas",
+    "content": "Build a note-taking app with REST API"
   }
 ]
